@@ -1,0 +1,6 @@
+imageList<images> (for image-recyclerview)
+name: String
+translation: String
+material: String
+color: String
+
